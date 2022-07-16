@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FilipINFINIT
+- 👋 Hi, I’m @Filips
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
